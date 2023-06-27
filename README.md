@@ -1,11 +1,13 @@
 # Wonderful-Indonesia
 
-"Wonderful Indonesia" adalah sebuah proyek pengembangan front-end yang menggunakan HTML dan CSS. Website ini bertujuan untuk mempromosikan keindahan dan kekayaan budaya Indonesia kepada pengunjung.
+"Wonderful Indonesia" is a front-end development project that utilizes HTML and CSS. The website aims to promote the beauty and cultural wealth of Indonesia to its visitors.
 
-Desain website ini didasarkan pada tema "Wonderful Indonesia" dengan menggunakan elemen visual yang menarik, seperti gambar-gambar pemandangan alam, budaya, dan tempat wisata yang terkenal di Indonesia.
+The website design is based on the theme of "Wonderful Indonesia" and incorporates visually appealing elements such as images of natural landscapes, culture, and renowned tourist destinations in Indonesia.
 
-Website ini memiliki tata letak yang responsif dan user-friendly, memastikan pengalaman pengguna yang optimal di berbagai perangkat, mulai dari desktop hingga perangkat mobile. Hal ini dilakukan dengan menggunakan teknik-teknik desain responsif dan pemrograman CSS media queries.
+The website boasts a responsive and user-friendly layout, ensuring an optimal user experience across various devices, ranging from desktop computers to mobile devices. This is achieved through the implementation of responsive design techniques and CSS media queries.
 
-Fitur-fitur yang mungkin ada di website ini termasuk navigasi yang mudah digunakan, galeri foto dengan tampilan slide show, informasi tentang tempat-tempat wisata, serta formulir kontak atau fitur pencarian.
+Potential features of the website may include easy-to-use navigation, a photo gallery with a slideshow view, information about tourist attractions, as well as contact forms or search functionality.
 
-Dalam proyek ini, HTML digunakan untuk membangun struktur halaman web, menambahkan judul, paragraf, gambar, dan elemen-elemen lainnya. Sementara itu, CSS digunakan untuk mengatur tata letak, warna, dan gaya visual secara keseluruhan.
+In this project, HTML is employed to construct the web page's structure, incorporating headings, paragraphs, images, and other elements. On the other hand, CSS is utilized to manage the layout, colors, and overall visual style.
+
+The Wonderful Indonesia website is designed to captivate the attention of visitors and acquaint them with the allure and cultural richness of Indonesia through an engaging and user-friendly interface.
